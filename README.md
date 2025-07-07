@@ -17,7 +17,7 @@ A fun and interactive number guessing game built with **HTML**, **CSS**, and **J
 ## 🖼️ Demo
 
 Play the live game here:  
-**🔗 [Guess the Number Game](https://sheeladevi-1.github.io/Guess-the-Number/)**  
+**🔗 https://github.com/SheelaDevi-1/Guess-the-number.git  
 
 
 ## 📁 Project Structure
